@@ -31,7 +31,7 @@ def euring_cli(ctx, verbose):
 def update(ctx):
     click.echo("Updating EURING schemes ...")
     data = fetch_schemes()
-    write_json_file("schemes.json", data)
+    write_json_file("ringing_scheme.json", data)
     click.echo("Done.")
     click.echo("Updating EURING species ...")
     data = fetch_species()
