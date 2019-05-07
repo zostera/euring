@@ -36,6 +36,9 @@ setup(
         "Topic :: Utilities",
     ],
     python_requires=">=3.4",
-    install_requires=[],
-    # test_suite="runtests",
+    install_requires=["Click", "requests", "beautifulsoup4"],
+    entry_points="""
+            [console_scripts]
+            euring=euring.cli:euring_cli
+        """,
 )

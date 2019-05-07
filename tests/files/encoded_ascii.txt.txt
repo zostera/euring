@@ -1,0 +1,2 @@
+This file is ASCII encoded and can contain ASCII characters.
+It cannot contain Unicode characters with codes above 127.
