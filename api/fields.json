@@ -62,6 +62,69 @@
     "slug": "species_concluded",
     "codes": "species.json",
     "index": 8
+  },
+  {
+    "name": "Manipulated",
+    "type": "alphabetic",
+    "length": 1,
+    "slug": "manipulated",
+    "codes": "manipulated.json",
+    "index": 9
+  },
+  {
+    "name": "Moved Before the Encounter",
+    "type": "integer",
+    "length": 1,
+    "slug": "moved_before_the_encounter",
+    "codes": "moved_before_the_encounter.json",
+    "index": 10
+  },
+  {
+    "name": "Catching Method",
+    "type": "alphabetic",
+    "length": 1,
+    "slug": "catching_method",
+    "codes": "catching_method.json",
+    "index": 11
+  },
+  {
+    "name": "Catching Lures",
+    "type": "alphabetic",
+    "length": 1,
+    "slug": "catching_lures",
+    "codes": "catching_lures.json",
+    "index": 12
+  },
+  {
+    "name": "Sex Mentioned",
+    "type": "alphabetic",
+    "length": 1,
+    "slug": "sex_mentioned",
+    "codes": "sex.json",
+    "index": 13
+  },
+  {
+    "name": "Sex Concluded",
+    "type": "alphabetic",
+    "length": 1,
+    "slug": "sex_concluded",
+    "codes": "sex.json",
+    "index": 14
+  },
+  {
+    "name": "Age Mentioned",
+    "type": "alphanumeric",
+    "length": 1,
+    "slug": "age_mentioned",
+    "codes": "age.json",
+    "index": 15
+  },
+  {
+    "name": "Age Concluded",
+    "type": "alphanumeric",
+    "length": 1,
+    "slug": "age_concluded",
+    "codes": "age.json",
+    "index": 16
   }
 ]
-
