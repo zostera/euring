@@ -126,5 +126,21 @@
     "slug": "age_concluded",
     "codes": "age.json",
     "index": 16
+  },
+  {
+    "name": "Status",
+    "type": "alphabetic",
+    "length": 1,
+    "slug": "status",
+    "codes": "status.json",
+    "index": 17
+  },
+  {
+    "name": "Brood Size",
+    "type": "integer",
+    "length": 2,
+    "slug": "brood_size",
+    "codes": "brood_size.json",
+    "index": 18
   }
 ]
