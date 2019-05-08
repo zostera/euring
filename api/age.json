@@ -17,11 +17,7 @@
   },
   {
     "code": 4,
-    "description": "Afer first-year: full-grown bird hatched before this calendar year"
-  },
-  {
-    "code": "unknown.",
-    "description": ""
+    "description": "After first-year: full-grown bird hatched before this calendar year; year of hatching otherwise unknown."
   },
   {
     "code": 5,
@@ -29,11 +25,7 @@
   },
   {
     "code": 6,
-    "description": "Afer 2nd year: full-grown bird hatched before last calendar year"
-  },
-  {
-    "code": "unknown.",
-    "description": ""
+    "description": "After 2nd year: full-grown bird hatched before last calendar year; year of hatching otherwise unknown."
   },
   {
     "code": 7,
@@ -41,11 +33,7 @@
   },
   {
     "code": 8,
-    "description": "Afer 3rd year: a full-grown bird hatched more than three calendar years ago (including present"
-  },
-  {
-    "code": "year as one)",
-    "description": "year if bird otherwise unknown."
+    "description": "After 3rd year: a full-grown bird hatched more than three calendar years ago (including present year as one); year if bird otherwise unknown."
   },
   {
     "code": 9,
@@ -53,7 +41,7 @@
   },
   {
     "code": "A",
-    "description": "Afer 4th year: a bird older than category 9 – age otherwise unknown."
+    "description": "After 4th year: a bird older than category 9 – age otherwise unknown."
   },
   {
     "code": "B",
