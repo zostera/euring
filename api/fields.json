@@ -142,5 +142,13 @@
     "slug": "brood_size",
     "codes": "brood_size.json",
     "index": 18
+  },
+  {
+    "name": "Pullus Age",
+    "type": "integer",
+    "length": 2,
+    "slug": "pullus_age",
+    "codes": "pullus_age.json",
+    "index": 19
   }
 ]
